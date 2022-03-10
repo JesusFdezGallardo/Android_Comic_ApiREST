@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/34656/Desktop/Android/tarea32final/app/src/main/res/layout/lista_comic_vistos_pagina3.xml" value="0.2" />
+        <entry key="..\:/Users/jesus/AndroidStudioProjects/tarea32final/app/src/main/res/layout-land/activity_comic_pagina2.xml" value="0.31040564373897706" />
+        <entry key="..\:/Users/jesus/AndroidStudioProjects/tarea32final/app/src/main/res/layout-land/activity_lista_pagina3.xml" value="0.31040564373897706" />
+        <entry key="..\:/Users/jesus/AndroidStudioProjects/tarea32final/app/src/main/res/layout-land/lista_comic_pagina2.xml" value="0.18342151675485008" />
+        <entry key="..\:/Users/jesus/AndroidStudioProjects/tarea32final/app/src/main/res/layout-land/primera_pantalla.xml" value="0.31040564373897706" />
+        <entry key="..\:/Users/jesus/AndroidStudioProjects/tarea32final/app/src/main/res/layout/activity_comic_pagina2.xml" value="0.25" />
+        <entry key="..\:/Users/jesus/AndroidStudioProjects/tarea32final/app/src/main/res/layout/activity_lista.xml" value="0.1" />
+        <entry key="..\:/Users/jesus/AndroidStudioProjects/tarea32final/app/src/main/res/layout/activity_lista_pagina3.xml" value="0.31068840579710144" />
+        <entry key="..\:/Users/jesus/AndroidStudioProjects/tarea32final/app/src/main/res/layout/activity_listado_comics.xml" value="0.12435233160621761" />
+        <entry key="..\:/Users/jesus/AndroidStudioProjects/tarea32final/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/jesus/AndroidStudioProjects/tarea32final/app/src/main/res/layout/lista_comic.xml" value="0.1" />
+        <entry key="..\:/Users/jesus/AndroidStudioProjects/tarea32final/app/src/main/res/layout/lista_comic_pagina2.xml" value="0.22" />
+        <entry key="..\:/Users/jesus/AndroidStudioProjects/tarea32final/app/src/main/res/layout/lista_comic_vistos.xml" value="0.16822916666666668" />
+        <entry key="..\:/Users/jesus/AndroidStudioProjects/tarea32final/app/src/main/res/layout/lista_comic_vistos_pagina3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jesus/AndroidStudioProjects/tarea32final/app/src/main/res/layout/lista_item_lista.xml" value="0.12903225806451613" />
+        <entry key="..\:/Users/jesus/AndroidStudioProjects/tarea32final/app/src/main/res/layout/primera_pantalla.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
